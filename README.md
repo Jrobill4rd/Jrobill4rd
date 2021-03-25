@@ -32,7 +32,7 @@ I am currently open for jobs and/or Intership. Feel free to contact me.
 - React.js
 - React Native
 - Spring
-- 
+
 ## 📫 How to reach me: 
 - Facebook: [https://www.facebook.com/jeff.robillard.12/](url)
 - Twitter:  [https://twitter.com/jrobill4rd](url)
