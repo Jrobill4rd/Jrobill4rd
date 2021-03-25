@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**Jrobill4rd/Jrobill4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 About me :
 
-Here are some ideas to get you started:
+Je suis Étudiant en Informatique et Génie Logiciel à l'Université du Québec à Montréal avec intérêt pour le développement web et applications.
+Je suis ouvert pour les offres d'emploi et/ou Stage. N'Hesitez pas à m'écrire.
+_________________________________________________________________________________________________________
+I am a Computer Science and Software Engineering Student at Université du Québec à Montréal with interest in web development and applications.
+I am currently open for jobs and/or Intership. Feel free to contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills: 
+#### Langages: 
+- Java          
+- C          
+- Python
+- Javascript    
+- HTML5/CSS3 
+- SQL
+- Flask         
+- Jinja2     
+- PHP
+- Shell/Bash
+
+#### Technologies:
+- Maven
+- Git
+- Junit
+- API RESTful
+
+##🌱 I’m currently learning ...
+- C#
+- .NET
+- React.js
+- React Native
+- Spring
+- 
+## 📫 How to reach me: 
+- Facebook: [https://www.facebook.com/jeff.robillard.12/](url)
+- Twitter:  [https://twitter.com/jrobill4rd](url)
+- Linkedin: [https://www.linkedin.com/in/jeffrey-robillard-b3572114b/](url)
+
