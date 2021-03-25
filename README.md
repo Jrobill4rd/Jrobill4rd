@@ -26,7 +26,7 @@ I am currently open for jobs and/or Intership. Feel free to contact me.
 - Junit
 - API RESTful
 
-##🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - C#
 - .NET
 - React.js
