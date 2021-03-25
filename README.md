@@ -34,7 +34,7 @@ I am currently open for jobs and/or Intership. Feel free to contact me.
 - Spring
 
 ## 📫 How to reach me: 
-- Facebook: [https://www.facebook.com/jeff.robillard.12/](url)
-- Twitter:  [https://twitter.com/jrobill4rd](url)
-- Linkedin: [https://www.linkedin.com/in/jeffrey-robillard-b3572114b/](url)
-
+- [Facebook](https://www.facebook.com/jeff.robillard.12/)
+- [Twitter](https://twitter.com/jrobill4rd)
+- [Linkedin](https://www.linkedin.com/in/jeffrey-robillard-b3572114b/)
+- GMAIL: Jrobill4rd@gmail.com
