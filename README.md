@@ -17,32 +17,6 @@ Also in my  web development classes , I have aquired skills in Full stack web de
 
 I am currently open for jobs and/or Intership. Feel free to contact me.
 
-## ⚡ Skills: 
-#### Langages: 
-- Java          
-- C          
-- Python
-- Javascript    
-- HTML5/CSS3 
-- SQL 
-- PHP
-- Shell/Bash
-
-#### Technologies:
-- Maven
-- Git
-- Junit
-- API RESTful
-- Flask         
-- Jinja2    
-
-## 🌱 I’m currently learning ...
-- C#
-- C++
-- .NET
-- React.js
-- React Native
-
 ## 📫 How to reach me: 
 - [Facebook](https://www.facebook.com/jeff.robillard.12/)
 - [Twitter](https://twitter.com/jrobill4rd)
