@@ -7,7 +7,7 @@ Dans le cardre de mon baccalauréat j'ai pu développer des compétences en dév
 
 De plus dans le cardre de mes cours de programmation web, j'ai pu aquérir des connaissances en développement web Full stack comme la création d'API RESTful , les requêtes asynchones , la gestion de base de donnée, l'intégration de design... en utilisant les langages de programmation: HTLM5/CSS3, Javascript, PHP, Python , Flask , SQLite3.
 
-Je suis activement à la recherche d'un Stage/Emploi . N'Hesitez pas à m'écrire.
+Je suis activement à la recherche d'un Stage/Emploi . N'hesitez pas à m'écrire.
 _________________________________________________________________________________________________________
 I am a Computer Science and Software Engineering Student at Université du Québec à Montréal with interest in web development and applications.
 
